@@ -9,9 +9,9 @@
 
 
 ### Flexible routing lets you start the app with 
-* /tweets/     **blank**
-* /tweets/user  **twitter handle**
-* /tweets/user/filter **twitter handle with keyword to exclude**
+* /tweets/    -- **blank**
+* /tweets/user  -- **twitter handle**
+* /tweets/user/filter  -- **twitter handle with keyword to exclude**
 
 ### Reuseable class:
 App\Classes\FetchTweeets.php
